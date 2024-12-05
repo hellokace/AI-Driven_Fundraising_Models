@@ -20,6 +20,6 @@ Online vs offline gifts comparison
 
 
 ## High Level Architecture
-
+![Alt text](Media/HLA.png)
 
 ## Credit: Kristopher 
