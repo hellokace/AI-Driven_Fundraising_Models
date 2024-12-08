@@ -1,4 +1,2 @@
 # Data Source
-This data has been acquired from the following sources:
-1- almafund.com
-2- ... 
+The donor data that is being used for this project is coming from Raiser's Edge. It contains sensitive data and thus cannot be uploaded here. Reach out personally if you have any questions about the data.

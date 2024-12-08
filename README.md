@@ -8,18 +8,23 @@ The success of fundraising campaigns in higher education institutions relies a l
 This study seeks to address this gap by examining the impact of technological advancements on fundraising practices, focusing on the transition to online donation platforms and its implications for donor engagement and fundraising efficiency in higher education.
 
 ## Minimum Viable Product 
-1. Donor Behavior Overview
-Percentage of online vs offline donors
-Average donation amount (online vs offline)
-Age distribution of online donors
-2. Donation Trends
-Comparison of online donation growth to overall donation growth
-3. Recent Campaign Performance
-Analysis of the results from the recently closed campaign
-Online vs offline gifts comparison
+A dashboard that has the following:
+1.	Donor behavior overview
+    a.	Percentage of online vs offline donors
+    b.	Average donation amount (online vs offline)
+    c.	Age distribution of donors (online vs offline)
+2.	Donation trends
+a.	    Comparison of online donation growth to overall donation growth
+3.	Recent Campaign Performance
+    a.	Analysis of the results from the recently closed campaign
+    b.	Online vs offline gifts comparison
+4.	ML Application
+    a.  Prediction of online vs offline donation based on giving history
+
 
 
 ## High Level Architecture
-![Alt text](Media/HLA.png)
+![Alt text](HLA_v9.png)
 
-## Credit: Kristopher 
+## Credit: Kristopher Albano
+Saint Peter's University. Graduate Student. Data Science. Graduate Assistant. Advancement Operations. Former Data Analyst. 
