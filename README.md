@@ -24,7 +24,7 @@ a.	    Comparison of online donation growth to overall donation growth
 
 
 ## High Level Architecture
-![Alt text](HLA_v9.png)
+![Alt text](Media/HLA_v9.png)
 
 ## Credit: Kristopher Albano
 Saint Peter's University. Graduate Student. Data Science. Graduate Assistant. Advancement Operations. Former Data Analyst. 
